@@ -8,9 +8,9 @@
 		{ "type": "id", "index": 1, "name": "Gene" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 9 }
+		{ "format": "binary", "start": 2, "end": 8 }
 	],
     "author": "MB",
     "description": "90 min Downregulated",
-    "source": "All 4 Rounds, cleaned data"
+    "source": "All 4 Rounds, cleaned data, p<0.01"
 }
